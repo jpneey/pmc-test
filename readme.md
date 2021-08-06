@@ -7,7 +7,7 @@ Please markup the provided design using HTML, CSS and Javascript. A png of the d
 
 **Rules and Requirements**
 + Feel free to come up with your own mobile version design.
-+ We are interested in simplicity and your command of the front-end development languages rather than libraries and frameworks. However, you may use any HTML/CSS/JS library or framework, except for dealing with the image object which is detailed below.
++ We are interested in simplicity and your command of the front-end development languages rather than libraries and frameworks. However, you may use any HTML/CSS/JS library or framework.
 + You may use a CSS framework if you like, but extra consideration will be given if you can showcase your command of simple media queries. Bonus points for exampling a "mobile first" approach.
 + For the banners and product images, please provide your own.
 + Pixel perfection is not expected. We are more interested in conveying the feel of the design.
